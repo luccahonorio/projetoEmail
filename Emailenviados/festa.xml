@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<email>
+    <dadosemail>
+        <emailfisico>jorgealmeida@gmail.com</emailfisico>
+        <assunto>festa</assunto>
+        <dataenvio>20-11-2017</dataenvio>
+        <Cc>jorgealmeida@gmail.com</Cc>
+        <conteudo>estou te convidando para a festa surpresa do matheus dia 22-11-2017. por favor confirmar presen&#xE7;a.</conteudo>
+    </dadosemail>
+</email>

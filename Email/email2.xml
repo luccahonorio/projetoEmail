@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<email>
+	<dadosemail>
+		<emailfisico>lucca_molina@hotmail.com</emailfisico>
+		<assunto>torta de linguiça</assunto>
+		<dataenvio>14-10-1995</dataenvio>
+		<Cc>jorgealmeida@gmail.com</Cc>
+		<conteudo>5kg de linguiça toscana moída, 2 dentes de alho, 1 kg de farinha de trigo, 1l de leite</conteudo>
+	</dadosemail>
+</email>
